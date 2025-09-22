@@ -1,0 +1,122 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://images.timesnownews.com/thumb/msid-151572581,thumbsize-25442,width-1280,height-720,resizemode-75/151572581.jpg",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "biddingPrice": "$2,000,000"
+  },
+  {
+    "playerId": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://thesportsside.com/wp-content/uploads/2025/05/post_image_a66c072.jpg",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "biddingPrice": "$1,500,000"
+  },
+  {
+    "playerId": 3,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "image": "https://images.mykhel.com/img/2019/11/steve-smith-australia-cwc-training-1574142663.jpg",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "biddingPrice": "$1,200,000"
+  },
+  {
+    "playerId": 4,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://assets.telegraphindia.com/telegraph/2024/Mar/1709790566_kanewilliamson.jpg",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "biddingPrice": "$1,100,000"
+  },
+  {
+    "playerId": 5,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://static.independent.co.uk/2025/02/25/10/bc3942b97709635c01bb88d261840ab2Y29udGVudHNlYXJjaGFwaSwxNzQwNTY0MDI3-2.78466672.jpg",
+    "role": "Allrounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "biddingPrice": "$1,800,000"
+  },
+  {
+    "playerId": 6,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://media.crictracker.com/media/attachments/1696748634550_Shakib-Al-Hasan.jpeg",
+    "role": "Allrounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "biddingPrice": "$1,000,000"
+  },
+  {
+    "playerId": 7,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://images.firstpost.com/wp-content/uploads/2021/10/Rashid-Khan-640-AP.jpeg?im=FitAndFill=(596,336)",
+    "role": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "biddingPrice": "$1,700,000"
+  },
+  {
+    "playerId": 8,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://www.livemint.com/lm-img/img/2025/08/04/600x338/Jasprit_Bumrah_1754284513653_1754284513925.jpg",
+    "role": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "biddingPrice": "$1,600,000"
+  },
+  {
+    "playerId": 9,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "image": "https://www.hindustantimes.com/ht-img/img/2025/09/17/550x309/CRICKET-ASIA-2025-T20-IND-PAK-49_1758079692838_1758079715842.jpg",
+    "role": "Bowler",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "biddingPrice": "$1,400,000"
+  },
+  {
+    "playerId": 10,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://d2gjl3w70qc898.cloudfront.net/content/uploads/2019/06/21124119/David.Warner.Hundred-PA.jpg",
+    "role": "Batsman",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Legbreak",
+    "biddingPrice": "$1,300,000"
+  },
+  {
+    "playerId": 11,
+    "name": "Jos Buttler",
+    "country": "England",
+    "image": "https://static.independent.co.uk/2025/06/06/22/8192b12d7a01a839447cf8182f1d1bd8Y29udGVudHNlYXJjaGFwaSwxNzQ5MzMxMDA1-2.80537282.jpg",
+    "role": "Wicketkeeper Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "—",
+    "biddingPrice": "$1,500,000"
+  },
+  {
+    "playerId": 12,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://admin.thecricketer.com/weblab/Sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/trentboultheadshot-min.jpg",
+    "role": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "biddingPrice": "$1,300,000"
+  }
+]
